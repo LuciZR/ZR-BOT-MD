@@ -130,5 +130,5 @@ global.Tips = [
 global.image_1 = readFileSync('./lib/Assets/image_1.jpg') // Thumbnail for allmenu command
 global.image_2 = readFileSync('./lib/Assets/image_2.jpg') // null image
 global.image_3 = readFileSync("./lib/Assets/image_3.jpg") // Thumbnail for Dashboard
-global.menu_pic = "https://i.ibb.co/PhDcZTM/Thumbnail.png";
+global.menu_pic = "https://i.imgur.com/LRdSbTk.jpg";
 
