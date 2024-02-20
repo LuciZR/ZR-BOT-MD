@@ -76,4 +76,4 @@
 
 ## Thanks to ✨
 - [OldUser](https://github.com/Teamolduser) - ✅ For web and modules compatibility
-- [AdirajShing](https://github.com/adiwajshing/Baileys) - ✅ For a huge library
+- [AdirajShing](https://github.com/adiwajshing/Baileys) - ✅ a huge library
