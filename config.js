@@ -63,18 +63,18 @@ global.message = {
 },
 
 module.exports = {
-  botname: process.env.BotName || "Queen Anya", 
-  author: process.env.Author || "@PikaBotz",
-  packname: process.env.PackName || "Queen Anya v2 MD",
-  socialLink: process.env.Web || "https://github.com/PikaBotz",
-  footer: process.env.Footer || "© Queen Anya Bot",
-  prefa: process.env.Prefix || ['-'],
+  botname: process.env.BotName || "ZR-BOT-MD", 
+  author: process.env.Author || "@LuciZR",
+  packname: process.env.PackName || "ZR-BOT-MD",
+  socialLink: process.env.Web || "https://github.com/LuciZR",
+  footer: process.env.Footer || "© 𝒁𝑹-𝑩𝑶𝑻 𖨆",
+  prefa: process.env.Prefix || ['*'],
   themeemoji: process.env.ThemeEmoji || "🎐",
-  ownername: process.env.Owner_Name || "Pika~Kun",
-  ownernumber: process.env.Owner_Number || "916900904828",
-  instagramId: process.env.Insta || "8.08_only_mine",
+  ownername: process.env.Owner_Name || "LuciZR",
+  ownernumber: process.env.Owner_Number || "918293838182",
+  instagramId: process.env.Insta || "i.luci.zr",
   warns: process.env.Warns_Limits || 3,
-  mongoUrl: process.env.MongoDB || "YOUR_MONGODB_URL",
+  mongoUrl: process.env.MongoDB || "mongodb+srv://King-MdIsbot:King-MdIsbot@cluster0.hikjrg2.mongodb.net/?retryWrites=true&w=majority",
   welcome: process.env.Welcome_Msg || '*@$user* joined this group today as $membersth member.\n\n_$prefix welcome off to disable this message._',
   left: process.env.Left_Msg || 'Ex-member *@$user* is no longer available in this group chat.\n\n_$prefix goodbye off to disable this message._',
   promote: process.env.Promote_Msg || '*@$user* has been promoted as an admin in this group.\n\n_$prefix promotem off to disable this message._',
@@ -105,19 +105,19 @@ module.exports = {
 
 
 // Ignore them 👇🏻
-global.botname = process.env.BotName || "Queen Anya" 
-global.author = process.env.Author || "@PikaBotz" 
-global.packname = process.env.PackName || "Queen Anya v2 MD" 
-global.myweb = process.env.Web || "https://github.com/PikaBotz" 
-global.footer = process.env.Footer || "© Queen Anya Bot" 
-global.prefa = process.env.Prefix || ['-'] 
+global.botname = process.env.BotName || "ZR-BOT-MD" 
+global.author = process.env.Author || "@LuciZR" 
+global.packname = process.env.PackName || "ZR-BOT-MD" 
+global.myweb = process.env.Web || "https://github.com/LuciZR" 
+global.footer = process.env.Footer || "© 𝒁𝑹-𝑩𝑶𝑻 𖨆" 
+global.prefa = process.env.Prefix || ['*'] 
 global.themeemoji = process.env.ThemeEmoji || "🎐" 
-global.ownername = process.env.Owner_Name || "Pika~Kun" 
-global.ownernumber = process.env.Owner_Number || "916900904828" 
+global.ownername = process.env.Owner_Name || "LuciZR" 
+global.ownernumber = process.env.Owner_Number || "918293838182" 
 global.adress = process.env.Continent || "Asia, India, Assam" 
 global.timezone = process.env.TimeZone || "Asia/Kolkata" 
-global.instagramId = process.env.Insta || "8.08_only_mine" 
-global.email = process.env.Email_Id || "example@example.com" 
+global.instagramId = process.env.Insta || "i.luci.zr" 
+global.email = process.env.Email_Id || "luci@usa.com" 
   
 //--------------- Tip ----------------\\
 global.Tips = [
