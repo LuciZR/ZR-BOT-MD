@@ -1,18 +1,18 @@
 {
-  "name": "ZR-BOT-MD",
-  "description": "ZR-BOT-MD is an efficient and versatile WhatsApp bot designed to streamline your messaging experience with innovative features and seamless automation.",
-  "repository": "https://github.COM/LuciZR/ZR-BOT-MD",
-  "logo": "https://i.imgur.com/SECMXa1.jpeg",
+  "name": "Queen Anya Ver.2",
+  "description": "Anya_v2-MD is an efficient and versatile WhatsApp bot designed to streamline your messaging experience with innovative features and seamless automation.",
+  "repository": "https://github.COM/PikaBotz/Anya_v2-MD",
+  "logo": "https://i.ibb.co/bgfFFjF/Videoshot-20221026-164328.jpg",
   "keywords": ["Automation", "Innovation", "Versatility", "Efficiency", "Messaging", "Chatbot", "Integration", "Customization", "Ease of Use", "Personalization"],
   "success_url": "/",
   "stack": "container",
   "env": {
        "BotName": {
-           "description": "Enter your desired bot\"s name (Ex:- ZR-BOT-MD)",
+           "description": "Enter your desired bot\"s name (Ex:- Queen Anya)",
            "required": true
        },
        "Footer": {
-           "description": "Enter a watermark for your bot\"s messages (Ex:- ? ZR-BOT-MD)",
+           "description": "Enter a watermark for your bot\"s messages (Ex:- ? Queen Anya)",
            "required": true
        },
        "Prefix": {
@@ -20,15 +20,15 @@
            "required": true
        },
        "Owner_Name": {
-           "description": "Enter a name for bot\"s owner (Ex:- LuciZR)",
+           "description": "Enter a name for bot\"s owner (Ex:- Pika~Kun)",
            "required": true
        },
        "Owner_Number": {
-           "description": "Enter owner\"s number of the bot (Ex:- 918293838182)",
+           "description": "Enter owner\"s number of the bot (Ex:- 918811xxxxxx)",
            "required": true
        },
        "MongoDB": {
-           "description": "Get your mongoDB url from mongoDB website(Ex:-mongodb+srv://King-MdIsbot:King-MdIsbot@cluster0.hikjrg2.mongodb.net/?retryWrites=true&w=majority)",
+           "description": "Get your mongoDB url from mongoDB website",
            "required": true
        },
        "SESSION_ID" : {
@@ -36,19 +36,19 @@
            "required": true
        },
        "Insta": {
-           "description": "Enter your Instagram user Id (Ex:- LuciZR)",
+           "description": "Enter your Instagram user Id (Ex:- 3.69_pika)",
            "required": false
        },
        "Author": {
-           "description": "Enter a name for sticker\"s owner name (Ex:- LuciZR)",
+           "description": "Enter a name for sticker\"s owner name (Ex:- PikaBotz)",
            "required": false
        },
        "PackName": {
-           "description": "Enter a packname for stickers (Ex:- ZR-BOT-MD Stickers)",
+           "description": "Enter a packname for stickers (Ex:- Queen Anya Stickers)",
            "required": false
        },
        "Web": {
-           "description": "Enter your any social platform link (Ex:- https://github.com/LuciZR)",
+           "description": "Enter your any social platform link (Ex:- https://github.com/PikaBotz)",
            "required": false
        },
        "ThemeEmoji": {
